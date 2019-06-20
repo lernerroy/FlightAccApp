@@ -3,7 +3,7 @@ sap.ui.define([
 		"sap/ui/model/json/JSONModel"
 	], function (BaseController, JSONModel) {
 		"use strict";
-
+ // GitHub Changes
 		return BaseController.extend("fts.cockpit.controller.App", {
 
 			onInit : function () { 
